@@ -1,0 +1,9 @@
+{
+  "title": "2048",
+  "score": "Skor",
+  "restart": "Yeniden Başlat",
+  "gameOver": "Oyun Bitti!",
+  "youWin": "Kazandınız!",
+  "playAgain": "Tekrar Oyna",
+  "builtWith": "v1.0 Windsurf AI(GPT-4.1) tarafından geliştirildi"
+}

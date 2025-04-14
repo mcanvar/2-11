@@ -1,0 +1,9 @@
+{
+  "title": "2048",
+  "score": "Score",
+  "restart": "Restart",
+  "gameOver": "Game Over!",
+  "youWin": "You Win!",
+  "playAgain": "Play Again",
+  "builtWith": "v1.0 developed by Windsurf AI(GPT-4.1)"
+}
