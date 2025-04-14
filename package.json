@@ -1,15 +1,16 @@
 {
-  "name": "nuxt-2048",
+  "name": "2-11",
   "version": "1.0.0",
   "description": "2048 Game built with Nuxt 3 and Tailwind CSS",
   "scripts": {
-    "dev": "nuxt dev",
     "build": "nuxt build",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "start": "nuxt start"
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.10.0"
+    "nuxt": "^3.12.4"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "latest",
